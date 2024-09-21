@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers;
-
+// test
 [ApiController]
 [Route("api/[controller]")]
 public class UsersController(DataContext context) : ControllerBase
