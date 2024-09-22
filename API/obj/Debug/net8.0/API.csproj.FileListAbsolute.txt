@@ -120,3 +120,4 @@
 /home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/obj/Debug/net8.0/API.csproj.AssemblyReference.cache
 /home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/obj/Debug/net8.0/API.csproj.CopyComplete
+/home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/obj/Debug/net8.0/API.sourcelink.json

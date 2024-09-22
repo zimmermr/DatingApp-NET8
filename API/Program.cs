@@ -4,6 +4,14 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddCors(options => 
+{
+    options.AddPolicy(name:"angular", policy =>
+    {
+        policy.WithOrigins("https://localhost:4200","http://localhost:4200");
+    });
+});
+
 
 // Configure Kestrel to use the PFX certificate
 builder.WebHost.ConfigureKestrel(options =>
@@ -23,6 +31,7 @@ builder.Services.AddDbContext<DataContext>(opt =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+app.UseCors("angular");
 
 app.MapControllers();
 
