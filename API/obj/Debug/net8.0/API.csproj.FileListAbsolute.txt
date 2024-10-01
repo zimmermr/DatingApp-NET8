@@ -121,3 +121,11 @@
 /home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/obj/Debug/net8.0/API.csproj.AssemblyReference.cache
 /home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/obj/Debug/net8.0/API.csproj.CopyComplete
 /home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/obj/Debug/net8.0/API.sourcelink.json
+/home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/michaelzimmerman/projects/NET_Angular_Course/DatingAppCourse/demo/DatingApp/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
